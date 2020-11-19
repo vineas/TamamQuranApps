@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MenuActivity">
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/but_1"
+            android:layout_gravity="center"
+            android:layout_width="236dp"
+            android:layout_height="72dp"
+            android:textAllCaps="false"
+            android:background="#D65B5B"
+            android:textColor="#ffff"
+            android:text="Dasar Baca Tulis Huruf Alquran" />
+
+        <Button
+            android:id="@+id/but_2"
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="236dp"
+            android:layout_height="72dp"
+            android:textAllCaps="false"
+            android:background="#D65B5B"
+            android:textColor="#ffff"
+            android:text="Huruf yang Tidak Dapat Dirangkai ke Depan" />
+
+        <Button
+            android:id="@+id/but_3"
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="236dp"
+            android:layout_height="72dp"
+            android:textAllCaps="false"
+            android:background="#D65B5B"
+            android:textColor="#ffff"
+            android:text="Titik yang Membentuk Lima Bunyi Huruf" />
+
+        <Button
+            android:id="@+id/but_4"
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="236dp"
+            android:layout_height="72dp"
+            android:textAllCaps="false"
+            android:background="#D65B5B"
+            android:textColor="#ffff"
+            android:text="Ekor yang Dipotong" />
+
+        <Button
+            android:id="@+id/but_5"
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="236dp"
+            android:layout_height="72dp"
+            android:textAllCaps="false"
+            android:background="#D65B5B"
+            android:textColor="#ffff"
+            android:text="Ekor yang Diluruskan" />
+
+        <Button
+            android:id="@+id/but_6"
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="236dp"
+            android:layout_height="72dp"
+            android:textAllCaps="false"
+            android:background="#D65B5B"
+            android:textColor="#ffff"
+            android:text="Dirangkai Tanpa Perubahan" />
+
+        <Button
+            android:id="@+id/but_7"
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="236dp"
+            android:layout_height="72dp"
+            android:textAllCaps="false"
+            android:background="#D65B5B"
+            android:textColor="#ffff"
+            android:text="Ekor yang Diluruskan dan Segitiga di tengah" />
+
+        <Button
+            android:id="@+id/but_8"
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="236dp"
+            android:layout_height="72dp"
+            android:textAllCaps="false"
+            android:background="#D65B5B"
+            android:textColor="#ffff"
+            android:text="Merangkai Huruf Fa Qaf" />
+
+        <Button
+            android:id="@+id/but_9"
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="236dp"
+            android:layout_height="72dp"
+            android:textAllCaps="false"
+            android:background="#D65B5B"
+            android:textColor="#ffff"
+            android:text="Huruf Kaf dan Lam" />
+
+        <Button
+            android:id="@+id/but_10"
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="236dp"
+            android:layout_height="72dp"
+            android:textAllCaps="false"
+            android:background="#D65B5B"
+            android:textColor="#ffff"
+            android:text="Huruf Mim Ha" />
+
+        <Button
+            android:id="@+id/but_11"
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="236dp"
+            android:layout_height="72dp"
+            android:textAllCaps="false"
+            android:background="#D65B5B"
+            android:textColor="#ffff"
+            android:text="Alif Lam Qomariyah" />
+
+        <Button
+            android:id="@+id/but_12"
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="236dp"
+            android:layout_height="72dp"
+            android:textAllCaps="false"
+            android:background="#D65B5B"
+            android:textColor="#ffff"
+            android:text="Alif Lam Syamsiyah" />
+
+        <Button
+            android:id="@+id/but_13"
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="236dp"
+            android:layout_height="72dp"
+            android:textAllCaps="false"
+            android:background="#D65B5B"
+            android:textColor="#ffff"
+            android:text="Huruf Nun Mati dan Tanwin" />
+
+
+
+    </LinearLayout>
+</ScrollView>

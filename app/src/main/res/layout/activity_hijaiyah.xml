@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_centerInParent="true"
+    android:gravity="center"
+    tools:context=".HijaiyahActivity">
+
+    <TextView
+        android:layout_marginTop="31dp"
+        android:layout_width="291dp"
+        android:layout_height="72dp"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:text="Dasar Baca Tulis Huruf Alquan"
+        android:textColor="#D65B5B"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:layout_marginTop="49dp"
+        android:layout_width="109dp"
+        android:layout_height="27dp"
+        android:text="Huruf Hijaiyah"
+        android:layout_gravity="bottom"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="57dp"
+        android:layout_alignParentTop="true"
+        android:textColor="#000000"
+        />
+
+    <ImageView
+        android:layout_marginTop="14dp"
+        android:layout_width="307dp"
+        android:layout_height="328dp"
+        android:gravity="center"
+        android:src="@drawable/hijaiyah"
+        />
+
+    <Button
+        android:layout_width="99dp"
+        android:layout_height="49dp"
+        android:textAllCaps="false"
+        android:text="Latihan"
+        android:textColor="#fff"
+        android:background="#D65B5B"
+        android:layout_gravity="right"
+        android:layout_marginTop="109dp"
+        android:layout_marginRight="57dp"
+        />
+
+</LinearLayout>
